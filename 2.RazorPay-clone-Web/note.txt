@@ -1,0 +1,13 @@
+attribute :
+1. " loading=lazy " it load image only while you scroll to the image not early !
+
+2. <i data-feather="check"></i>  ::: this is an icon library and we need to import feather library : 
+	step -2 <script src="https://unpkg.com/feather-icons"></script>
+	step -3  <script>feather.replace();</script>
+	then, click ctrl+C 
+	then,to install feather icon library , 
+	write in terminal: npm i feather 
+3. <div class="bg-[url('/img/hero-pattern.svg')]">     ::: backgound image adding in Tailwind
+
+4. skew-x-[20deg] - 
+5. -skew-x-[20deg] ::: anti skew
